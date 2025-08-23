@@ -18,7 +18,7 @@ Join us in building a stronger ecosystem for AI tools by exploring, contributing
 
 | Name | Link | Submission Link | Domain Rating | Monthly Visits | 
 |---|---|---|---|---|
-|✨ Submit AI Tools | [Submit AI Tools](https://submitaitools.org) | [Submit](https://submitaitools.org/submit-your-ai-tool/) | 53 | 50,000 | 
+|✨ Submit AI Tools | [Submit AI Tools](https://submitaitools.org) | [Submit](https://submitaitools.org/submit-your-ai-tool/) | 54 | 50,000 | 
 | 100 AI Apps | [100 AI Apps](https://100apps.org) | [Submit](https://100apps.org ) | 0.6 | 1000 |
 | 1000 Tools | [1000 Tools](https://1000.tools ) | [Submit](https://1000.tools/my/tools/create) | 23 | 7500 |
 | 1000gpt.shop | [1000gpt.shop](https://1000gpt.shop ) | [Submit](https://buy.stripe.com/dR6eVi1lRgj9bsY4gg) | 1 | 1000 |
