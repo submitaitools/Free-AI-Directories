@@ -18,7 +18,8 @@ Join us in building a stronger ecosystem for AI tools by exploring, contributing
 
 | Name | Link | Submission Link | Domain Rating | Monthly Visits | 
 |---|---|---|---|---|
-|✨ Submit AI Tools | [Submit AI Tools](https://submitaitools.org) | [Submit](https://submitaitools.org/submit-your-ai-tool/) | 54 | 50,000 | 
+|✨ Submit AI Tools | [Submit AI Tools](https://submitaitools.org) | [Submit](https://submitaitools.org/submit-your-ai-tool/) | 56 | 50,000 | 
+| Altern AI | [Altern AI](https://altern.ai ) | [Submit](https://altern.ai/dash/submit) | 28 | 180000 | 
 | 100 AI Apps | [100 AI Apps](https://100apps.org) | [Submit](https://100apps.org ) | 0.6 | 1000 |
 | 1000 Tools | [1000 Tools](https://1000.tools ) | [Submit](https://1000.tools/my/tools/create) | 23 | 7500 |
 | 1000gpt.shop | [1000gpt.shop](https://1000gpt.shop ) | [Submit](https://buy.stripe.com/dR6eVi1lRgj9bsY4gg) | 1 | 1000 |
@@ -71,7 +72,6 @@ Join us in building a stronger ecosystem for AI tools by exploring, contributing
 | All things AI | [All things AI](https://allthingsai.com) | [Submit](https://allthingsai.com/submit) | 27 | 500000 | 
 | All Top Startups | [All Top Startups](https://alltopstartups.com/) | [Submit](https://alltopstartups.com/submit-startup/) | 64 | 70000 | 
 | AllStartups Info | [AllStartups Info](https://www.allstartups.info ) | [Submit](https://www.allstartups.info/Startups/Submit) | 33 | 17000 | 
-| Altern AI | [Altern AI](https://altern.ai ) | [Submit](https://altern.ai/dash/submit) | 25 | 180000 | 
 | Alternative | [Alternative](https://alternative.me/) | [Submit](https://alternative.me/how-to/submit-software/) | 77 | 2000000 | 
 | Alternatives.co | [Alternatives.co](https://alternatives.co/software/ai-tools/) | [Submit](https://alternatives.co/software/ai-tools/) | 12 | 19000 | 
 | AlternativeTo | [AlternativeTo](https://alternativeto.net ) | [Submit](https://alternativeto.net/manage-item ) | 80 | 1300000 | 
