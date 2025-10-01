@@ -54,42 +54,27 @@ Join us in building a stronger ecosystem for AI tools by exploring, contributing
 | Alternatives.co | [Alternatives.co](https://alternatives.co/software/ai-tools/) | [Submit](https://alternatives.co/software/ai-tools/) | 12 | 19000 | 
 | AlternativeTo | [AlternativeTo](https://alternativeto.net ) | [Submit](https://alternativeto.net/manage-item ) | 80 | 1300000 | 
 | AlterOpen | [AlterOpen](https://alteropen.com ) | [Submit](https://github.com/alteropen-com/alteropen/tree/main/content/app) | 0 | 0 | 
-| Ankore | [Ankore](https://ankore.io) | [Submit](https://ankore.io/submit ) | 0.4 | 1500 | 
 | Anyfp | [Anyfp](https://anyfp.com ) | [Submit](https://anyfp.com/contact ) | 33 | 1000 | 
-| Apps and Websites | [Apps and Websites](https://appsandwebsites.com ) | [Submit](https://landing.mycloudmedia.co.uk/apps-and-websites-submit-ai-or-saas-tool/new-submission.html) | 21 | 5000 | 
-| Apps and Websites | [Apps and Websites](https://appsandwebsites.com/) | [Submit](https://landing.mycloudmedia.co.uk/apps-and-websites-submit-ai-or-saas-tool/new-submission.html) | 18 | 6000 | 
 | Appscriber | [Appscriber](https://appscribed.com/) | [Submit](https://appscribed.com/product-list ) | 34 | 42100 | 
 | AppsHunter | [AppsHunter](https://appsthunder.com ) | [Submit](https://appsthunder.com/submit-your-app ) | 29 | 5000 | 
 | AppSumo | [AppSumo](https://appsumo.com/) | [Submit](https://appsumo.com/) | 82 | 3300000 |  |  |
-| Ben’s Bites News | [Ben’s Bites News](https://news.bensbites.co/) | [Submit](https://news.bensbites.com/submit) | 39 | 13000 | 
 | Best AI To | [Best AI To](https://bestaito.com ) | [Submit](https://bestaito.com/submit-a-ai-tool ) | 12 | 162000 | 
 | Best AI Tools | [Best AI Tools](https://www.startupaitools.com/) | [Submit](https://www.startupaitools.com/) | 10 | 900 | 
 | Beta List | [Beta List](https://betalist.com/) | [Submit](https://betalist.com/submissions/new) | 70 | 180000 | 
-| BizRaw | [BizRaw](https://bizraw.com ) | [Submit](https://bizraw.com/whats-new/posts/98 ) | 73 | 0 | 
 | BroUseAI | [BroUseAI](https://www.brouseai.com ) | [Submit](https://www.brouseai.com ) | 35 | 31000 | 
 | Buffer Apps | [Buffer Apps](https://www.bufferapps.com ) | [Submit](https://www.bufferapps.com/beta-listing/new) | 11 | 5000 | 
-| Chat AI Apps | [Chat AI Apps](https://www.chataiapps.com/) | [Submit](https://www.chataiapps.com/) | 10 | 5000 |  |  |
-| ChatGate AI | [ChatGate AI](https://explore.chatgate.ai ) | [Submit](https://explore.chatgate.ai/submit-your-tool ) | 18 | 5000 | 
 | ChatGPT demo | [ChatGPT demo](https://chatgptdemo.com/) | [Submit](https://chatgptdemo.com/submit-a-product/) | 30 | 400000 | 
-| Crazy About Startups | [Crazy About Startups](https://crazyaboutstartups.com/) | [Submit](https://crazyaboutstartups.com/share-your-startup-2) | 33 | 5000 | 
-| Creator Supply | [Creator Supply](https://creator.supply) | [Submit](https://kevinbhagat.lemonsqueezy.com/buy/6747a484-e8ee-4302-a90a-af378cc72678) | 21 | 1000 | 
 | Crozdesk | [Crozdesk](https://crozdesk.com/) | [Submit](https://vendor.softwareselect.com/) | 74 | 200000 |  |  |
 | Crunchbase | [Crunchbase](https://www.crunchbase.com ) | [Submit](https://www.crunchbase.com/add-new ) | 80 | 10000000 | 
-| Daily tech AI | [Daily tech AI](https://www.dailytech.ai/) | [Submit](https://www.dailytech.ai/submit-service) | 11 | 23000 | 
 | Dang AI | [Dang AI](https://dang.ai ) | [Submit](https://dang.ai ) | 45 | 27700 | 
-| Dev Hunt | [Dev Hunt](https://devhunt.org ) | [Submit](https://devhunt.org/account/tools/new) | 56 | 65000 | 
 | Dev Pages | [Dev Pages](https://www.devpages.io/) | [Submit](https://www.devpages.io/submit-a-tool) | 10 | 50000 | 
-| DEV Resources | [DEV Resources](https://devresourc.es/) | [Submit](https://github.com/marcelscruz/dev-resources) | 31 | 2700 | 
 | DevPost | [DevPost](https://devpost.com/software) | [Submit](https://devpost.com/software/new) | 86 | 1000000 | 
 | Digi Pro Tools | [Digi Pro Tools](https://digiprotoolz.com/) | [Submit](https://digiprotoolz.com/contact-us/) | 10 | 17000 | 
-| Digital Agency Network | [Digital Agency Network](https://digitalagencynetwork.com) | [Submit](https://digitalagencynetwork.com/join-free-listing-tools/) | 76 | 528000 | 
 | Dokey AI | [Dokey AI](https://dokeyai.com ) | [Submit](https://dokeyai.com/submit?ref=aidirecotri.es) | 37 | 6000 | 
 | DoMore | [DoMore](https://domore.ai/) | [Submit](https://domore.ai/contact-us) | 5 | 45000 | 
 | Easy Save AI | [Easy Save AI](https://easysaveai.com) | [Submit](https://easysaveai.com/submit-your-ai-tool/) | 7 | 245 | 
 | Easy with AI | [Easy with AI](https://easywithai.com/) | [Submit](https://easywithai.com/submit-tool/) | 33 | 922000 | 
-| eBool | [eBool](https://www.ebool.com/) | [Submit](https://www.ebool.com/submit) | 62 | 25000 | 
 | Educator Tools | [Educator Tools](https://aieducator.tools) | [Submit](https://docs.google.com/forms/d/e/1FAIpQLSdXXbiHAdQTWUSzLvU6xw-asbIoppIiQo0W9PuZLw2DnkhKew/viewform?usp=send_form) | 25 | 131000 | 
-| Every AI | [Every AI](https://every-ai.com) | [Submit](https://every-ai.com/submit-tool/) | 7 | 100 |  |  |
 | Faind AI | [Faind AI](https://faind.ai ) | [Submit](https://faind.ai/submit-a-tool ) | 10 | 5000 | 
 | Favird | [Favird](https://favird.com ) | [Submit](https://favird.com ) | 26 | 30000 | 
 | Fazier | [Fazier](https://fazier.com ) | [Submit](https://fazier.com/submit) | 5 | 5000 | 
