@@ -22,61 +22,38 @@ Join us in building a stronger ecosystem for AI tools by exploring, contributing
 | Altern AI | [Altern AI](https://altern.ai ) | [Submit](https://altern.ai/dash/submit) | 28 | 180000 | 
 | 100 AI Apps | [100 AI Apps](https://100apps.org) | [Submit](https://100apps.org ) | 0.6 | 1000 |
 | 1000 Tools | [1000 Tools](https://1000.tools ) | [Submit](https://1000.tools/my/tools/create) | 23 | 7500 |
-| 1000gpt.shop | [1000gpt.shop](https://1000gpt.shop ) | [Submit](https://buy.stripe.com/dR6eVi1lRgj9bsY4gg) | 1 | 1000 |
 | 1payment Tools | [1payment Tools](https://1payment.tools ) | [Submit](https://1payment.tools/cabinet/apps/new) | 0.8 | 1000 |
-| Advanced Innovation | [Advanced Innovation](https://www.advanced-innovation.io) | [Submit](https://www.advanced-innovation.io/ki-tool-einreichen) | 20 | 25000 |
-| Afford Hunt | [Afford Hunt](https://affordhunt.com) | [Submit](https://t.co/zZB1Yxgf8s) | 56 | 80000 | 
 | AI Center | [AI Center](https://aicenter.ai) | [Submit](https://aicenter.ai/products/submit) | 10 | 5000 | 
-| AI combined | [AI combined](https://aicombined.com) | [Submit](https://aicombined.com/add-listing) | 10 | 5000 | 
 | AI Depot | [AI Depot](https://aidepot.co) | [Submit](https://t.co/d7KH891ypL) | 11 | 30000 | 
-| AI Dir | [AI Dir](https://www.aidir.cc/) | [Submit](https://www.aidir.cc/submit/) | 10 | 100 | 
 | AI Directory | [AI Directory](https://www.aidirectory.org) | [Submit](https://www.aidirectory.org/user-submit/) | 10 | 5700 | 
 | AI Dude Info | [AI Dude Info](https://www.aiwizard.ai) | [Submit](https://aidude.info/submit-your-tool) | 13 | 84700 | 
-| AI Explorer | [AI Explorer](https://www.aiexplorer.app/) | [Submit](https://www.aiexplorer.app/) | 10 | 24000 | 
-| AI Finder | [AI Finder](https://ai-finder.net/) | [Submit](https://ai-finder.net/add) | 54 | 263000 | 
-| AI Gadget | [AI Gadget](https://aigadget.io/) | [Submit](https://aigadget.io/) | 12 | 23000 | 
-| AI Hub | [AI Hub](https://www.aihub.fyi/) | [Submit](https://www.aihub.fyi/form) | 22 | 1300 | 
 | AI Hunter | [AI Hunter](https://ai-hunter.io/) | [Submit](https://ai-hunter.io/submit-ai-tool/) | 10 | 5000 | 
-| AI Infinity | [AI Infinity](https://aiinfinity-meetpatel.notion.site/AI-Infinity-AI-Tools-Directory-0da673c487124ea2b6f8ebe59b75a231) | [Submit](https://forms.gle/Ze6pdWzmweCfKWnLA) | 91 | 2000 | 
 | AI Lib | [AI Lib](https://ailib.ru/) | [Submit](https://ailib.ru/) | 23 | 119000 | 
 | AI Library | [AI Library](https://library.phygital.plus) | [Submit](https://library.phygital.plus/tool-submission) | 17 | 25000 | 
 | AI Marketing | [AI Marketing](https://aimarketing.directory/) | [Submit](https://aimarketing.directory/submit) | 12 | 9600 | 
-| AI scout | [AI scout](https://aiscout.net/ref=aidirectori.es) | [Submit](https://aiscout.net/submit-listing/details/ref=aidirectori.es) | 43 | 5000 | 
 | AI Search | [AI Search](https://ai-search.io) | [Submit](https://ai-search.io/submit) | 10 | 4000 | 
-| AI Spree | [AI Spree](https://aispree.com/) | [Submit](https://aispree.com/) | 5 | 700 | 
-| AI Startups | [AI Startups](https://www.aistartups.net/) | [Submit](https://www.aistartups.net/submit/) | 12 | 37000 | 
-| AI Stash | [AI Stash](https://www.aistash.co/) | [Submit](https://www.aistash.co/submit-tool) | 20 | 15000 | 
 | AI To Grow | [AI To Grow](https://aitogrow.com) | [Submit](https://aitogrow.com/#send-your-tool) | 15 | 5000 | 
 | AI Tool Board | [AI Tool Board](https://aitoolboard.com/) | [Submit](https://aitoolboard.com/submit-ai-tool) | 3 | 7000 | 
 | AI Tool guru | [AI Tool guru](https://aitoolguru.com/) | [Submit](https://aitoolguru.com/submit-ai-tool) | 31 | 27000 | 
 | AI tool hunt | [AI tool hunt](https://www.aitoolhunt.com/) | [Submit](https://www.aitoolhunt.com/addTool) | 22 | 80000 | 
 | AI Tool NET | [AI Tool NET](https://www.aitoolnet.com/) | [Submit](https://www.aitoolnet.com/) | 35 | 160000 | 
-| AI Tool Tracker | [AI Tool Tracker](https://aitooltracker.com/) | [Submit](https://aitooltracker.com/dashboard/#submit) | 15 | 30000 | 
 | AI Tools Arena | [AI Tools Arena](https://aitoolsarena.com/) | [Submit](https://aitoolsarena.com/) | 8 | 700 | 
-| AI Tools Directory | [AI Tools Directory](https://www.aitools.directory/) | [Submit](https://www.aitools.directory/) | 5 | 10000 | 
 | AI tools directory COM | [AI tools directory COM](https://aitoolsdirectory.com/) | [Submit](https://aitoolsdirectory.com/submit-tool) | 10 | 25000 | 
-| AI Tools Directory HCILAB | [AI Tools Directory HCILAB](https://www.hcilab.org/ai-tools-directory/) | [Submit](https://www.hcilab.org/ai-tools-directory/) | 20 | 30000 | 
-| AI tools for Marketing | [AI tools for Marketing](https://airadar.getinference.com/) | [Submit](https://airadar.getinference.com/) | 14 | 50000 | 
 | AI Tools Guide | [AI Tools Guide](https://aitoolsguide.com/) | [Submit](https://aitoolsguide.com/contact/) | 10 | 5000 | 
 | AI Tools Hunter | [AI Tools Hunter](https://ai-hunter.io/) | [Submit](https://ai-hunter.io/submit-ai-tool/) | 10 | 25000 | 
 | AI Tools Neil Patel | [AI Tools Neil Patel](https://aitools.neilpatel.com ) | [Submit](https://aitools.neilpatel.com/submit ) | 91 | 6000 | 
 | AI Tools Up | [AI Tools Up](https://aitoolsup.com ) | [Submit](https://aitoolsup.com/submit-tool ) | 2 | 700 | 
 | AI Tools Wiki | [AI Tools Wiki](https://aitoolswiki.com/) | [Submit](https://aitoolswiki.com/contact-us/) | 10 | 9000 | 
-| AI Top Picks | [AI Top Picks](https://www.aitoppicks.com ) | [Submit](https://www.aitoppicks.com ) | 10 | 5800 | 
 | AI trendz | [AI trendz](https://aitrendz.xyz) | [Submit](https://aitrendz.xyz/submit-ai-link) | 8 | 90 | 
 | AI Valley | [AI Valley](https://aivalley.ai) | [Submit](https://aivalley.ai/submit-tool) | 25 | 230000 | 
 | AI Wizard | [AI Wizard](https://www.aiwizard.ai) | [Submit](https://www.aiwizard.ai/submit) | 10 | 5000 | 
-| AIToolKit | [AIToolKit](https://www.aitoolkit.org) | [Submit](https://www.aitoolkit.org/submit) | 25 | 71000 | 
 | AIX Collection | [AIX Collection](https://aixcollection.com) | [Submit](https://aixcollection.com/submit) | 10 | 100 | 
 | Aixploria | [Aixploria](https://www.aixploria.com/en) | [Submit](https://www.aixploria.com/en/add-ai) | 17 | 584000 | 
 | All things AI | [All things AI](https://allthingsai.com) | [Submit](https://allthingsai.com/submit) | 27 | 500000 | 
-| All Top Startups | [All Top Startups](https://alltopstartups.com/) | [Submit](https://alltopstartups.com/submit-startup/) | 64 | 70000 | 
-| AllStartups Info | [AllStartups Info](https://www.allstartups.info ) | [Submit](https://www.allstartups.info/Startups/Submit) | 33 | 17000 | 
 | Alternative | [Alternative](https://alternative.me/) | [Submit](https://alternative.me/how-to/submit-software/) | 77 | 2000000 | 
 | Alternatives.co | [Alternatives.co](https://alternatives.co/software/ai-tools/) | [Submit](https://alternatives.co/software/ai-tools/) | 12 | 19000 | 
 | AlternativeTo | [AlternativeTo](https://alternativeto.net ) | [Submit](https://alternativeto.net/manage-item ) | 80 | 1300000 | 
 | AlterOpen | [AlterOpen](https://alteropen.com ) | [Submit](https://github.com/alteropen-com/alteropen/tree/main/content/app) | 0 | 0 | 
-| Amaete AI | [Amaete AI](https://www.amaete.ai/) | [Submit](https://www.amaete.ai/) | 11 | 4000 | 
 | Ankore | [Ankore](https://ankore.io) | [Submit](https://ankore.io/submit ) | 0.4 | 1500 | 
 | Anyfp | [Anyfp](https://anyfp.com ) | [Submit](https://anyfp.com/contact ) | 33 | 1000 | 
 | Apps and Websites | [Apps and Websites](https://appsandwebsites.com ) | [Submit](https://landing.mycloudmedia.co.uk/apps-and-websites-submit-ai-or-saas-tool/new-submission.html) | 21 | 5000 | 
@@ -220,14 +197,10 @@ Join us in building a stronger ecosystem for AI tools by exploring, contributing
 | Toolspedia | [Toolspedia](https://www.toolspedia.io) | [Submit](https://www.toolspedia.io/submit-tool/) | 21 | 26000 | 
 | Top Apps AI | [Top Apps AI](https://topapps.ai) | [Submit](https://topapps.ai/submit) | 32 | 890000 | 
 | Under1000MRR.tools | [Under1000MRR.tools](https://under1000mrr.tools/) | [Submit](https://under1000mrr.tools/submit-product) | 0 | 500 | 
-| Unloc.tools | [Unloc.tools](https://www.unloc.tools/) | [Submit](https://www.unloc.tools/submit-tool) | 20 | 1000 | 
 | Victrays | [Victrays](https://victrays.com/) | [Submit](https://victrays.com/submit-tool/) | 10 | 5000 | 
-| Warehouse AI | [Warehouse AI](https://www.thewarehouse.ai/) | [Submit](https://www.thewarehouse.ai/product-submission) | 10 | 15000 | 
-| Webwiki | [Webwiki](https://www.webwiki.com/) | [Submit](https://www.webwiki.com/info/add-website.html) | 77 | 15000 | 
 | What the AI | [What the AI](https://whattheai.tech/) | [Submit](https://whattheai.tech/submit-a-tool/) | 28 | 50000 | 
 | Whatsthebigdata | [Whatsthebigdata](https://whatsthebigdata.com/) | [Submit](https://whatsthebigdata.com/submit-new-ai-tool ) | 60 | 2700000 | 
 | Woi AI | [Woi AI](https://woy.ai/) | [Submit](https://woy.ai/submit) | 64 | 43400 | 
-| Your Story | [Your Story](https://yourstory.com) | [Submit](https://eu.frms.link/g4juley) | 86 | 8758000 | 
 
 
 ---
