@@ -161,6 +161,7 @@ Join us in building a stronger ecosystem for AI tools by exploring, contributing
 | Startups.fyi | [Startups.fyi](https://www.startups.fyi ) | [Submit](https://tally.so/r/3lOGLk) | 25 | 13000 | 
 | Super Tools | [Super Tools](https://supertools.therundown.ai/) | [Submit](https://supertools.therundown.ai/submit) | 20 | 380000 | 
 | Synoptica | [Synoptica](https://synoptica.com ) | [Submit](https://synoptica.com/submit-an-ai-tool ) | 17 | 5000 | 
+| TakeAI | [TakeAI](https://takeai.org) | [Submit](https://takeai.org/submit) | 25 | 10000 |
 | Tekpon | [Tekpon](https://tekpon.com/get-listed ) | [Submit](https://tekpon.com/get-listed ) | 54 | 134000 | 
 | That AI Collection | [That AI Collection](https://github.com/ai-collection/ai-collection) | [Submit](https://www.thataicollection.com/submit/) | 32 | 34000 | 
 | The ai Generation | [The ai Generation](https://www.theaigeneration.com/) | [Submit](https://www.theaigeneration.com/add/) | 11 | 77000 | 
