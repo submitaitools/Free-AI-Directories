@@ -21,10 +21,10 @@ Join us in building a stronger ecosystem for AI tools by exploring, contributing
 |✨ Submit AI Tools | [Submit AI Tools](https://submitaitools.org) | [Submit](https://submitaitools.org/submit-your-ai-tool/) | 61 | 50,000 | 
 | Altern AI | [Altern AI](https://altern.ai ) | [Submit](https://altern.ai/dash/submit) | 28 | 180000 |
 | GoPickHost | [GoPickHost](https://gopickhost.com/tools) | [Submit](https://gopickhost.com/tools) | 1.1 | 1000 |
-| Aura++ | [Aura++](https://auraplusplus.com/) | [Submit](https://auraplusplus.com/) | 62 | 1000 |
-| IndieHunt | [IndieHunt](https://indiehunt.io/) | [Submit](https://indiehunt.io/) | 32 | 1000 |
-| EarlyHunt | [EarlyHunt](https://earlyhunt.com/) | [Submit](https://earlyhunt.com/) | 25 | 1000 |
-| Uno Directory | [Uno Directory](https://uno.directory/) | [Submit](https://uno.directory/) | 45 | 1000 |
+| Aura++ | [Aura++](https://auraplusplus.com/) | [Submit](https://auraplusplus.com/) | 62 | - |
+| IndieHunt | [IndieHunt](https://indiehunt.io/) | [Submit](https://indiehunt.io/) | 32 | - |
+| EarlyHunt | [EarlyHunt](https://earlyhunt.com/) | [Submit](https://earlyhunt.com/) | 25 | - |
+| Uno Directory | [Uno Directory](https://uno.directory/) | [Submit](https://uno.directory/) | 45 | - |
 | 100 AI Apps | [100 AI Apps](https://100apps.org) | [Submit](https://100apps.org ) | 0.6 | 1000 |
 | 1000 Tools | [1000 Tools](https://1000.tools ) | [Submit](https://1000.tools/my/tools/create) | 23 | 7500 |
 | 1payment Tools | [1payment Tools](https://1payment.tools ) | [Submit](https://1payment.tools/cabinet/apps/new) | 0.8 | 1000 |
