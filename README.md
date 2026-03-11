@@ -205,3 +205,4 @@ If you would like to add a new AI directory to this list, please send the follow
 - **Domain Authority (DA)**  
 
 📧 **Email:** contact@submitaitools.org
+| Taylor's AI Characters | https://poe.com/digiopium | 230+ AI character bots on Poe with deep personalities. Dark romance, fantasy, psychology tools, strategy games. | Free | Chatbot, AI Companion, Roleplay |
