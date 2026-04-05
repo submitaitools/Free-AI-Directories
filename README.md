@@ -22,7 +22,6 @@ Join us in building a stronger ecosystem for AI tools by exploring, contributing
 | Altern AI | [Altern AI](https://altern.ai ) | [Submit](https://altern.ai/dash/submit) | 28 | 180000 |
 | GoPickHost | [GoPickHost](https://gopickhost.com/tools) | [Submit](https://gopickhost.com/tools) | 1.1 | 1000 |
 | Aidreamhub | [Aidreamhub](https://aidreamhub.com/) | [Submit](https://aidreamhub.com/) | 23 | - |
-
 | Aura++ | [Aura++](https://auraplusplus.com/) | [Submit](https://auraplusplus.com/) | 62 | - |
 | IndieHunt | [IndieHunt](https://indiehunt.io/) | [Submit](https://indiehunt.io/) | 32 | - |
 | EarlyHunt | [EarlyHunt](https://earlyhunt.com/) | [Submit](https://earlyhunt.com/) | 25 | - |
