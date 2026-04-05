@@ -19,11 +19,9 @@ Join us in building a stronger ecosystem for AI tools by exploring, contributing
 | Name | Link | Submission Link | Domain Rating | Monthly Visits | 
 |---|---|---|---|---|
 |✨ Submit AI Tools | [Submit AI Tools](https://submitaitools.org) | [Submit](https://submitaitools.org/submit-your-ai-tool/) | 61 | 50,000 | 
+| ✨ Hashgraph Online | [Hashgraph Online](https://hol.org) | [Submit](https://hol.org) | 30 | 50000 |
 | Altern AI | [Altern AI](https://altern.ai ) | [Submit](https://altern.ai/dash/submit) | 28 | 180000 |
-| Backlinkhubs | [Backlinkhubs](https://backlinkhubs.com/) | [Submit](https://backlinkhubs.com/) | 0 | - |
 | GoPickHost | [GoPickHost](https://gopickhost.com/tools) | [Submit](https://gopickhost.com/tools) | 1.1 | 1000 |
-| Doforai | [Doforai](https://doforai.tools/) | [Submit](https://doforai.tools/submit) | 0 | - |
-| Aidreamhub | [Aidreamhub](https://aidreamhub.com/) | [Submit](https://aidreamhub.com/) | 23 | - |
 | Aura++ | [Aura++](https://auraplusplus.com/) | [Submit](https://auraplusplus.com/) | 62 | - |
 | IndieHunt | [IndieHunt](https://indiehunt.io/) | [Submit](https://indiehunt.io/) | 32 | - |
 | EarlyHunt | [EarlyHunt](https://earlyhunt.com/) | [Submit](https://earlyhunt.com/) | 25 | - |
