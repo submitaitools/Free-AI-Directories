@@ -20,6 +20,7 @@ Join us in building a stronger ecosystem for AI tools by exploring, contributing
 |---|---|---|---|---|
 |✨ Submit AI Tools | [Submit AI Tools](https://submitaitools.org) | [Submit](https://submitaitools.org/submit-your-ai-tool/) | 61 | 50,000 | 
 | Altern AI | [Altern AI](https://altern.ai ) | [Submit](https://altern.ai/dash/submit) | 28 | 180000 |
+| Backlinkhubs | [Backlinkhubs](https://backlinkhubs.com/) | [Submit](https://backlinkhubs.com/) | 0 | - |
 | GoPickHost | [GoPickHost](https://gopickhost.com/tools) | [Submit](https://gopickhost.com/tools) | 1.1 | 1000 |
 | Doforai | [Doforai](https://doforai.tools/) | [Submit](https://doforai.tools/submit) | 0 | - |
 | Aidreamhub | [Aidreamhub](https://aidreamhub.com/) | [Submit](https://aidreamhub.com/) | 23 | - |
