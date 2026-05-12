@@ -194,6 +194,7 @@ Join us in building a stronger ecosystem for AI tools by exploring, contributing
 | What the AI | [What the AI](https://whattheai.tech/) | [Submit](https://whattheai.tech/submit-a-tool/) | 28 | 50000 | 
 | Whatsthebigdata | [Whatsthebigdata](https://whatsthebigdata.com/) | [Submit](https://whatsthebigdata.com/submit-new-ai-tool ) | 60 | 2700000 | 
 | Woi AI | [Woi AI](https://woy.ai/) | [Submit](https://woy.ai/submit) | 64 | 43400 | 
+| [Nick Launches](https://nicklaunches.com/) | https://nicklaunches.com/ | https://nicklaunches.com/ |  |  |
 
 
 ---
