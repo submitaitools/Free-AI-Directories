@@ -208,3 +208,4 @@ If you would like to add a new AI directory to this list, please send the follow
 - **Domain Authority (DA)**  
 
 📧 **Email:** contact@submitaitools.org
+| SuperCompress | [SuperCompress](https://supercompress.vercel.app) | [Submit](https://supercompress.vercel.app) | 0 | 0 |
