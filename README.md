@@ -31,7 +31,8 @@ Join us in building a stronger ecosystem for AI tools by exploring, contributing
 | 100 AI Apps | [100 AI Apps](https://100apps.org) | [Submit](https://100apps.org ) | 0.6 | 1000 |
 | 1000 Tools | [1000 Tools](https://1000.tools ) | [Submit](https://1000.tools/my/tools/create) | 23 | 7500 |
 | 1payment Tools | [1payment Tools](https://1payment.tools ) | [Submit](https://1payment.tools/cabinet/apps/new) | 0.8 | 1000 |
-| AI Center | [AI Center](https://aicenter.ai) | [Submit](https://aicenter.ai/products/submit) | 10 | 5000 | 
+| AI Center | SuperCompress | [supercompress.vercel.app](https://supercompress.vercel.app) | [Submit](https://supercompress.vercel.app) | 0 | 0 |
+| [AI Center](https://aicenter.ai) | [Submit](https://aicenter.ai/products/submit) | 10 | 5000 | 
 | AI Depot | [AI Depot](https://aidepot.co) | [Submit](https://t.co/d7KH891ypL) | 11 | 30000 | 
 | AI Directory | [AI Directory](https://www.aidirectory.org) | [Submit](https://www.aidirectory.org/user-submit/) | 10 | 5700 | 
 | AI Dude Info | [AI Dude Info](https://www.aiwizard.ai) | [Submit](https://aidude.info/submit-your-tool) | 13 | 84700 | 
