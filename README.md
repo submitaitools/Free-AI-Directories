@@ -15,6 +15,7 @@ Join us in building a stronger ecosystem for AI tools by exploring, contributing
 **Sponsors:** [Submit AI Tools](https://submitaitools.org)
 
 ## 📋 AI Directories List
+| [FreeAIStack](https://aifreeaistack.com) | aifreeaistack.com | Free AI tools collection | Free | English |
 
 | Name | Link | Submission Link | Domain Rating | Monthly Visits | 
 |---|---|---|---|---|
