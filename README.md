@@ -143,7 +143,7 @@ Join us in building a stronger ecosystem for AI tools by exploring, contributing
 | Saas Po | [Saas Po](https://www.saaspo.com ) | [Submit](https://www.saaspo.com/submit) | 29 | 69000 | 
 | Saas Surf | [Saas Surf](https://saassurf.com ) | [Submit](https://saassurf.com/submit-a-product#submit) | 21 | 31000 | 
 | SaasBaba | [SaasBaba](https://saasbaba.com/) | [Submit](https://saasbaba.com/add-ai-tool/) | 10 | 9000 | 
-| SaaSCity | [SaaSCity](https://saascity.io/) | [Submit](https://saascity.io/submit) | 46 | 200 | 
+| SaaSCity | [SaaSCity](https://saascity.io/) | [Submit](https://saascity.io/submit) | 59 | 200 | 
 | SaasHub | [SaasHub](https://www.saashub.com/) | [Submit](https://www.saashub.com/submit) | 68 | 1600000 | 
 | SaasWorthy | [SaasWorthy](https://www.saasworthy.com ) | [Submit](https://mailchi.mp/caea48b0c7ac/saasworthy-product-listing) | 72 | 172000 | 
 | Sick Tools | [Sick Tools](https://www.sick.tools/) | [Submit](https://tally.so/r/wvY09d) | 0 | 100 | 
