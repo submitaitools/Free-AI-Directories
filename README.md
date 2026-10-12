@@ -83,7 +83,8 @@ Join us in building a stronger ecosystem for AI tools by exploring, contributing
 | DoMore | [DoMore](https://domore.ai/) | [Submit](https://domore.ai/contact-us) | 5 | 45000 | 
 | Easy Save AI | [Easy Save AI](https://easysaveai.com) | [Submit](https://easysaveai.com/submit-your-ai-tool/) | 7 | 245 | 
 | Easy with AI | [Easy with AI](https://easywithai.com/) | [Submit](https://easywithai.com/submit-tool/) | 33 | 922000 | 
-| Educator Tools | [Educator Tools](https://aieducator.tools) | [Submit](https://docs.google.com/forms/d/e/1FAIpQLSdXXbiHAdQTWUSzLvU6xw-asbIoppIiQo0W9PuZLw2DnkhKew/viewform?usp=send_form) | 25 | 131000 | 
+| Educator Tools | [Educator Tools](https://aieducator.tools) | [Submit](https://docs.google.com/forms/d/e/1FAIpQLSdXXbiHAdQTWUSzLvU6xw-asbIoppIiQo0W9PuZLw2DnkhKew/viewform?usp=send_form) | 25 | 131000 |
+| EliteAI.tools | [EliteAI.tools](https://eliteai.tools) | [Submit](https://eliteai.tools/tool/submit-new-tool) | 35 | 300000 | 
 | Faind AI | [Faind AI](https://faind.ai ) | [Submit](https://faind.ai/submit-a-tool ) | 10 | 5000 | 
 | Favird | [Favird](https://favird.com ) | [Submit](https://favird.com ) | 26 | 30000 | 
 | Fazier | [Fazier](https://fazier.com ) | [Submit](https://fazier.com/submit) | 5 | 5000 | 
