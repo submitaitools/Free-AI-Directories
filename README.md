@@ -192,6 +192,7 @@ Join us in building a stronger ecosystem for AI tools by exploring, contributing
 | Top Apps AI | [Top Apps AI](https://topapps.ai) | [Submit](https://topapps.ai/submit) | 32 | 890000 | 
 | Under1000MRR.tools | [Under1000MRR.tools](https://under1000mrr.tools/) | [Submit](https://under1000mrr.tools/submit-product) | 0 | 500 | 
 | Victrays | [Victrays](https://victrays.com/) | [Submit](https://victrays.com/submit-tool/) | 10 | 5000 | 
+| Vinggle | [Vinggle](https://vinggle.com) | [Submit](https://vinggle.com/submit) | 1 | - |
 | What the AI | [What the AI](https://whattheai.tech/) | [Submit](https://whattheai.tech/submit-a-tool/) | 28 | 50000 | 
 | Whatsthebigdata | [Whatsthebigdata](https://whatsthebigdata.com/) | [Submit](https://whatsthebigdata.com/submit-new-ai-tool ) | 60 | 2700000 | 
 | Woi AI | [Woi AI](https://woy.ai/) | [Submit](https://woy.ai/submit) | 64 | 43400 | 
