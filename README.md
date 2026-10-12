@@ -48,6 +48,7 @@ Join us in building a stronger ecosystem for AI tools by exploring, contributing
 | AI Tool NET | [AI Tool NET](https://www.aitoolnet.com/) | [Submit](https://www.aitoolnet.com/) | 35 | 160000 | 
 | AI Tools Arena | [AI Tools Arena](https://aitoolsarena.com/) | [Submit](https://aitoolsarena.com/) | 8 | 700 | 
 | AI tools directory COM | [AI tools directory COM](https://aitoolsdirectory.com/) | [Submit](https://aitoolsdirectory.com/submit-tool) | 10 | 25000 | 
+| AI Tools Directory | [AI Tools Directory](https://aitoolsdirectory.si) | [Submit](https://aitoolsdirectory.si/submit.php) | 0 | - |
 | AI Tools Guide | [AI Tools Guide](https://aitoolsguide.com/) | [Submit](https://aitoolsguide.com/contact/) | 10 | 5000 | 
 | AI Tools Hunter | [AI Tools Hunter](https://ai-hunter.io/) | [Submit](https://ai-hunter.io/submit-ai-tool/) | 10 | 25000 | 
 | AI Tools Neil Patel | [AI Tools Neil Patel](https://aitools.neilpatel.com ) | [Submit](https://aitools.neilpatel.com/submit ) | 91 | 6000 | 
