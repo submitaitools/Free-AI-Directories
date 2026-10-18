@@ -124,6 +124,7 @@ Join us in building a stronger ecosystem for AI tools by exploring, contributing
 | Look AI Tools | [Look AI Tools](https://lookaitools.com ) | [Submit](https://lookaitools.com/submission-service ) | 6 | 130 | 
 | MadGenius | [MadGenius](https://madgenius.co/) | [Submit](https://madgenius.co/submit) | 10 | 5000 | 
 | Mars AI directory | [Mars AI directory](https://www.marsx.dev/ai-startups) | [Submit](https://www.marsx.dev/ai-startups) | 30 | 90000 | 
+| MeetNewAI | [MeetNewAI](https://meetnewai.com/) | [Submit](https://meetnewai.com/submit) | - | - | 
 | MicroLaunch | [MicroLaunch](https://microlaunch.net) | [Submit](https://tally.so/r/mYaR6N) | 2 | 10000 | 
 | MicroStartups | [MicroStartups](https://www.microstartups.co ) | [Submit](https://www.microstartups.co/list-your-startup ) | 3.1 | 0 | 
 | Next Gen Tools | [Next Gen Tools](https://nextgentools.me) | [Submit](https://nextgentools.me/submit-your-tool?ref=aidirecories) | 27 | 47000 | 
