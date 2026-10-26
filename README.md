@@ -88,6 +88,7 @@ Join us in building a stronger ecosystem for AI tools by exploring, contributing
 | Favird | [Favird](https://favird.com ) | [Submit](https://favird.com ) | 26 | 30000 | 
 | Fazier | [Fazier](https://fazier.com ) | [Submit](https://fazier.com/submit) | 5 | 5000 | 
 | FinancesOnline | [FinancesOnline](https://financesonline.com) | [Submit](https://financesonline.com/add-product) | 87 | 1200000 | 
+| FindAIforWork | [FindAIforWork](https://findaiforwork.com) | [Submit](https://findaiforwork.com/submit) | 0 | - | 
 | Find Cool Tools | [Find Cool Tools](https://findcool.tools) | [Submit](https://findcool.tools) | 10 | 2300 | 
 | Find My AI Tool | [Find My AI Tool](https://findmyaitool.com ) | [Submit](https://findmyaitool.com/submit-tool ) | 36 | 69000 | 
 | First 100 users | [First 100 users](https://www.first100users.com ) | [Submit](https://www.first100users.com/submit ) | 18 | 200 | 
