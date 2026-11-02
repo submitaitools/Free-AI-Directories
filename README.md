@@ -209,3 +209,5 @@ If you would like to add a new AI directory to this list, please send the follow
 - **Domain Authority (DA)**  
 
 📧 **Email:** contact@submitaitools.org
+
+- [AIToolNotes](https://aitoolnotes.blogspot.com) - Curated directory of free AI tools with detailed comparisons and guides for students, marketers, developers, and businesses.
