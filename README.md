@@ -58,6 +58,7 @@ Join us in building a stronger ecosystem for AI tools by exploring, contributing
 | AI Wizard | [AI Wizard](https://www.aiwizard.ai) | [Submit](https://www.aiwizard.ai/submit) | 10 | 5000 | 
 | AIX Collection | [AIX Collection](https://aixcollection.com) | [Submit](https://aixcollection.com/submit) | 10 | 100 | 
 | Aixploria | [Aixploria](https://www.aixploria.com/en) | [Submit](https://www.aixploria.com/en/add-ai) | 17 | 584000 | 
+| Awesome Tools | [Awesome Tools](https://awesome.tools) | [Submit](https://awesome.tools/submit) | 31 | - |
 | All things AI | [All things AI](https://allthingsai.com) | [Submit](https://allthingsai.com/submit) | 27 | 500000 | 
 | Alternative | [Alternative](https://alternative.me/) | [Submit](https://alternative.me/how-to/submit-software/) | 77 | 2000000 | 
 | Alternatives.co | [Alternatives.co](https://alternatives.co/software/ai-tools/) | [Submit](https://alternatives.co/software/ai-tools/) | 12 | 19000 | 
