@@ -119,6 +119,7 @@ Join us in building a stronger ecosystem for AI tools by exploring, contributing
 | Lachief | [Lachief](https://www.lachief.io/) | [Submit](https://tally.so/r/w4Jb4b) | 23 | 266000 | 
 | Launched | [Launched](https://launched.io/) | [Submit](https://launched.io/SubmitStartup) | 38 | 2400 | 
 | Launched Site | [Launched Site](https://launched.site) | [Submit](https://launched.site/submit) | 45 | 10000 | 
+| launched.tools | [launched.tools](https://launched.tools) | [Submit](https://launched.tools/submit) | 51 | - |
 | Launching Next | [Launching Next](https://www.launchingnext.com/) | [Submit](https://www.launchingnext.com/submit/) | 51 | 13000 | 
 | Live Apps | [Live Apps](https://liveapps.ai ) | [Submit](https://liveapps.ai/become-a-partner ) | 12 | 500 | 
 | Look AI Tools | [Look AI Tools](https://lookaitools.com ) | [Submit](https://lookaitools.com/submission-service ) | 6 | 130 | 
